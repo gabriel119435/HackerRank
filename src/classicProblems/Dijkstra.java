@@ -14,27 +14,23 @@ import java.util.Set;
 // shortest path in a graph
 
 /*
-                 1
-  (0)--------------------------- (3)
-   | \                            |
-   |   \                          |
-   |     \                        |
-   |     2 \                      |
-   |         \                    |
-   |           \                  |
-   |           |                  |
-   |           (2)                |3
-  3|           ||                 |
-   |           ||                 |
-   |           ||                 |
-   |          /  \                |
-   |        /       \             |
-   |    1 /            \  4       |
-   |    /                 \       |
-   |  /                      \    |
-   |/                           \ |
-  (1)----------------------------(4)
-                  5
+                1
+  (0)-----------------------(3)
+   | \                       |
+   |   \                     |
+   |     \                   |
+   |     2 \                 |
+   |         \               |
+   |           \             |
+  3|           (2)           |3
+   |          /  \           |
+   |        /      \         |
+   |    1 /          \  4    |
+   |    /              \     |
+   |  /                  \   |
+   |/                      \ |
+  (1)----------------------(4)
+                5
 
 input
 5 7
@@ -73,10 +69,8 @@ public class Dijkstra {
 
         PriorityQueue<Integer[]> np = new PriorityQueue<>(Comparator.comparing(n -> n[1])); // nodesToProcess, smaller weights come first
         for (int i = 0; i < nn; i++) {
-            if (i == r)
-                np.add(new Integer[]{r, 0, r}); // index, weight, previousNode
-            else
-                np.add(new Integer[]{i, Integer.MAX_VALUE, -1}); // index, weight, previousNode
+            if (i == r) np.add(new Integer[]{r, 0, r}); // index, weight, previousNode
+            else np.add(new Integer[]{i, Integer.MAX_VALUE, -1}); // index, weight, previousNode
         }
 
         Map<Integer, Integer[]> pn = new HashMap<>(nn); // processed nodes
