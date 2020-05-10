@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class RansomNote {
 
-    //https://www.hackerrank.com/challenges/ctci-ransom-note/problem
+    //https://www.hackerrank.com/challenges/ctci-ransom-note
 
     public static void main(String[] args) {
         String[] magazine = {"two", "times", "three", "is", "not", "four"};

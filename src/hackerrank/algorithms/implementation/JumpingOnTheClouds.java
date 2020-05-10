@@ -2,7 +2,7 @@ package hackerrank.algorithms.implementation;
 
 public class JumpingOnTheClouds {
 
-    //https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
+    //https://www.hackerrank.com/challenges/jumping-on-the-clouds
 
     public static void main(String[] args) {
         int[] clouds = {0, 0, 1, 0, 0, 1, 0};

@@ -3,7 +3,7 @@ package hackerrank.algorithms.strings;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-//https://www.hackerrank.com/challenges/two-strings/problem
+//https://www.hackerrank.com/challenges/two-strings
 
 public class TwoStrings {
     public static void main(String[] args) {

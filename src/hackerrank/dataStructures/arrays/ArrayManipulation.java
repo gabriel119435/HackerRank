@@ -2,7 +2,7 @@ package hackerrank.dataStructures.arrays;
 
 public class ArrayManipulation {
 
-    //https://www.hackerrank.com/challenges/crush/problem
+    //https://www.hackerrank.com/challenges/crush
 
     public static void main(String[] args) {
         int n = 5;

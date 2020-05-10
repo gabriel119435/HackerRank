@@ -9,7 +9,7 @@ import static hackerrank.dataStructures.trees.utils.Node.scanTree;
 
 public class LevelOrderTraversal {
 
-    //https://www.hackerrank.com/challenges/tree-level-order-traversal/
+    //https://www.hackerrank.com/challenges/tree-level-order-traversal
 
     public static void levelOrder(Node root) {
         List<Node> nodes = new ArrayList<>();

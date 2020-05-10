@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class LeftRotation {
 
-    //https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
+    //https://www.hackerrank.com/challenges/ctci-array-left-rotation
 
     public static void main(String[] args) {
         int[] a = new int[]{1, 2, 3, 4, 5};

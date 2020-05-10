@@ -2,7 +2,7 @@ package hackerrank.dataStructures.arrays;
 
 public class TwoDArrayDS {
 
-    //https://www.hackerrank.com/challenges/2d-array/problem
+    //https://www.hackerrank.com/challenges/2d-array
 
     public static void main(String[] args) {
         int[][] arr = new int[][]{

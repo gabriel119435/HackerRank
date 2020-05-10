@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class BFSShortestReachInAGraph {
 
-    //https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem
+    //https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

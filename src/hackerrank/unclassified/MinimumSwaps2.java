@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class MinimumSwaps2 {
 
-    //https://www.hackerrank.com/challenges/minimum-swaps-2/problem
+    //https://www.hackerrank.com/challenges/minimum-swaps-2
 
     public static void main(String[] args) {
         int[] arr = {4, 3, 1, 2};

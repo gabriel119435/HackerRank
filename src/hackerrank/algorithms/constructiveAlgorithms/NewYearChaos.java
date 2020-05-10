@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class NewYearChaos {
 
-    //https://www.hackerrank.com/challenges/new-year-chaos/problem
+    //https://www.hackerrank.com/challenges/new-year-chaos
 
     public static void main(String[] args) {
         int[] q = new int[]{2, 1, 5, 3, 4};

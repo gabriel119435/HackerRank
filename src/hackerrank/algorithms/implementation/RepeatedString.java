@@ -2,7 +2,7 @@ package hackerrank.algorithms.implementation;
 
 public class RepeatedString {
 
-    //https://www.hackerrank.com/challenges/repeated-string/problem
+    //https://www.hackerrank.com/challenges/repeated-string
 
     public static void main(String[] args) {
         long n = 10;

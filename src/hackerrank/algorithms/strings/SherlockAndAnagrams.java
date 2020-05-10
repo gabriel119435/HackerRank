@@ -11,7 +11,7 @@ import java.util.Set;
 
 public class SherlockAndAnagrams {
 
-    //https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem
+    //https://www.hackerrank.com/challenges/sherlock-and-anagrams
 
     public static void main(String[] args) {
         System.out.println(sherlockAndAnagrams("cdcd"));

@@ -7,7 +7,7 @@ import java.util.PriorityQueue;
 
 public class FindRunningMedian {
 
-    // https://www.hackerrank.com/challenges/find-the-running-median
+    //https://www.hackerrank.com/challenges/find-the-running-median
 
     static double[] runningMedian(int[] numbers) {
         double[] results = new double[numbers.length];

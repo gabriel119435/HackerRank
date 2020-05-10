@@ -2,7 +2,7 @@ package hackerrank.algorithms.implementation;
 
 public class CountingValleys {
 
-    //https://www.hackerrank.com/challenges/counting-valleys/problem
+    //https://www.hackerrank.com/challenges/counting-valleys
 
     public static void main(String[] args) {
         int n = 8;
