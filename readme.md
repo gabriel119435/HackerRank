@@ -32,4 +32,4 @@ solutions for the problems below:
 ### trie
 * https://www.hackerrank.com/challenges/contacts medium
 ## unclassified
-* https://www.hackerrank.com/challenges/minimum-swaps-2
+* https://www.hackerrank.com/challenges/minimum-swaps-2 medium
