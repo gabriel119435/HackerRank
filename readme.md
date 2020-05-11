@@ -21,6 +21,7 @@ solutions for the problems below:
 ### arrays
 * https://www.hackerrank.com/challenges/crush hard
 * https://www.hackerrank.com/challenges/2d-array easy
+* https://www.hackerrank.com/challenges/minimum-swaps-2 medium
 ### heap
 * https://www.hackerrank.com/challenges/find-the-running-median hard
 ### stacks
@@ -31,5 +32,5 @@ solutions for the problems below:
 * https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree easy
 ### trie
 * https://www.hackerrank.com/challenges/contacts medium
-## unclassified
-* https://www.hackerrank.com/challenges/minimum-swaps-2 medium
+### dictionaries and hashMaps
+* https://www.hackerrank.com/challenges/count-triplets-1 medium

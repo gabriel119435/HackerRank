@@ -1,4 +1,4 @@
-package hackerrank.unclassified;
+package hackerrank.dataStructures.arrays;
 
 import java.util.Arrays;
 
