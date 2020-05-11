@@ -34,3 +34,4 @@ solutions for the problems below:
 * https://www.hackerrank.com/challenges/contacts medium
 ### dictionaries and hashMaps
 * https://www.hackerrank.com/challenges/count-triplets-1 medium
+* https://www.hackerrank.com/challenges/frequency-queries medium
