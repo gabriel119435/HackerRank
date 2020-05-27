@@ -3,6 +3,7 @@
 solutions for the problems below:
 
 ## algorithms
+
 ### constructive algorithms
 * https://www.hackerrank.com/challenges/new-year-chaos medium
 ### implementation
@@ -10,6 +11,8 @@ solutions for the problems below:
 * https://www.hackerrank.com/challenges/jumping-on-the-clouds easy
 * https://www.hackerrank.com/challenges/repeated-string easy
 * https://www.hackerrank.com/challenges/sock-merchant easy
+### greedy
+* https://www.hackerrank.com/challenges/mark-and-toys easy
 ### strings
 * https://www.hackerrank.com/challenges/sherlock-and-anagrams medium
 * https://www.hackerrank.com/challenges/two-strings easy
@@ -17,6 +20,8 @@ solutions for the problems below:
 * https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach hard
 * https://www.hackerrank.com/challenges/ctci-array-left-rotation easy
 * https://www.hackerrank.com/challenges/ctci-ransom-note easy
+* https://www.hackerrank.com/challenges/ctci-bubble-sort easy
+* https://www.hackerrank.com/challenges/ctci-comparator-sorting easy
 ## data structures
 ### arrays
 * https://www.hackerrank.com/challenges/crush hard
